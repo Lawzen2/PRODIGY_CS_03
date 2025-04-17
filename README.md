@@ -35,7 +35,7 @@ A simple, interactive Python script that checks the strength of passwords based 
 
 ```bash
 git clone https://github.com/Lawzen2/password-strength-checker.git
-cd password-strength-checker
+cd password_strength_checker
 
 Run the Script
 
